@@ -35,6 +35,6 @@ Based on the findings, the following recommendations can be made:
 
 ## Slides and Appendix
 
-Please refer to the attached [slides](link-to-slides) for a summary of the findings and recommendations. The appendix contains additional content, including code snippets and workbooks used for the analysis.
+Please refer to the attached [slides](https://github.com/bohuali23/AB_TEST/blob/main/instacart%20slides.pptx) for a summary of the findings and recommendations. The appendix contains additional content, including code snippets and workbooks used for the analysis.
 
 Thank you for your interest in this A/B test analysis. Should you have any further questions or require additional information, please feel free to reach out to us.
